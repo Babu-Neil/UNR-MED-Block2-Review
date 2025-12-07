@@ -12,7 +12,7 @@ st.set_page_config(page_title="UNR Med Block 2 Review", layout="wide")
 @st.cache_data
 def load_questions():
     combined_data = []
-    files_to_load = ['questions_2.json']
+    files_to_load = ['questions.json']
     
     for filename in files_to_load:
         if os.path.exists(filename):
