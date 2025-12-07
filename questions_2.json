@@ -1,0 +1,1444 @@
+[
+    {
+        "id": 1,
+        "faculty": "Gillian Moritz",
+        "session": "B2: Anatomy Of The Anterior Chest Wall And Breast Lecture",
+        "question": "The Internal Thoracic Artery (Internal Mammary Artery) is frequently used for coronary artery bypass grafting. Anatomically, this vessel descends vertically:",
+        "options": [
+            "Lateral to the sternum, deep to the costal cartilages and internal intercostal muscles",
+            "Medial to the sternum, superficial to the pectoralis major",
+            "Along the mid-axillary line",
+            "Posterior to the transversus thoracis muscle"
+        ],
+        "correct_answer": "Lateral to the sternum, deep to the costal cartilages and internal intercostal muscles",
+        "explanation": "The Internal Thoracic Artery arises from the subclavian artery and runs about 1cm lateral to the sternal edge, deep to the costal cartilages. It is a critical source of collateral circulation."
+    },
+    {
+        "id": 2,
+        "faculty": "Gillian Moritz",
+        "session": "B2: Anatomy Of The Anterior Chest Wall And Breast Lecture",
+        "question": "Which muscle of the anterior chest wall is responsible for depressing the ribs during forced expiration?",
+        "options": [
+            "External Intercostals",
+            "Internal Intercostals",
+            "Pectoralis Major",
+            "Serratus Anterior"
+        ],
+        "correct_answer": "Internal Intercostals",
+        "explanation": "The Internal Intercostal muscles run inferoposteriorly (down and back). Their contraction pulls the ribs down, decreasing the thoracic volume during forced expiration. The External Intercostals elevate the ribs for inspiration."
+    },
+    {
+        "id": 3,
+        "faculty": "Normand Leblanc",
+        "session": "B2: Intro To The Heart And Its Electrical Conduction System",
+        "question": "The fibrous skeleton of the heart serves multiple functions, including anchoring the heart valves. What is its critical electrophysiological function?",
+        "options": [
+            "It acts as an electrical insulator, preventing direct propagation of impulses from atria to ventricles",
+            "It conducts impulses rapidly from the SA node to the AV node",
+            "It generates the spontaneous pacemaker potential",
+            "It delays the impulse within the Purkinje fibers"
+        ],
+        "correct_answer": "It acts as an electrical insulator, preventing direct propagation of impulses from atria to ventricles",
+        "explanation": "The fibrous skeleton electrically isolates the atria from the ventricles. This ensures that the ONLY pathway for conduction is through the AV node, preventing random re-entry or premature ventricular contraction."
+    },
+    {
+        "id": 4,
+        "faculty": "Normand Leblanc",
+        "session": "B2: Intro To The Heart And Its Electrical Conduction System",
+        "question": "Which coronary vessel typically runs in the posterior interventricular sulcus and supplies the AV node in 85-90% of individuals?",
+        "options": [
+            "Left Anterior Descending (LAD) artery",
+            "Posterior Descending Artery (PDA) from the Right Coronary Artery",
+            "Circumflex Artery",
+            "Left Marginal Artery"
+        ],
+        "correct_answer": "Posterior Descending Artery (PDA) from the Right Coronary Artery",
+        "explanation": "In 'Right Dominant' hearts (85%), the RCA gives rise to the PDA. The RCA also typically gives rise to the AV nodal branch, explaining why inferior wall MIs (RCA territory) are often associated with AV block."
+    },
+    {
+        "id": 5,
+        "faculty": "Gregory Highison",
+        "session": "B2: Embryology Of The Heart",
+        "question": "Tetralogy of Fallot is characterized by four specific defects. The primary embryological event that leads to this constellation of anomalies is:",
+        "options": [
+            "Anterior and superior displacement of the infundibular (conotruncal) septum",
+            "Failure of the endocardial cushions to fuse",
+            "Total failure of the aorticopulmonary septum to form",
+            "Failure of the septum secundum to cover the foramen secundum"
+        ],
+        "correct_answer": "Anterior and superior displacement of the infundibular (conotruncal) septum",
+        "explanation": "The deviation of the conotruncal septum creates the pulmonary stenosis. This stenosis forces the aorta to override the VSD (caused by the misalignment) and leads to right ventricular hypertrophy due to pressure overload."
+    },
+    {
+        "id": 6,
+        "faculty": "Gregory Highison",
+        "session": "B2: Embryology Of The Heart",
+        "question": "A patent ductus arteriosus (PDA) creates a left-to-right shunt after birth. Anatomically, this structure connects which two vessels?",
+        "options": [
+            "Left Pulmonary Artery and the Aorta (distal to the left subclavian)",
+            "Right Pulmonary Artery and the Ascending Aorta",
+            "Superior Vena Cava and the Right Atrium",
+            "Left Atrium and Right Atrium"
+        ],
+        "correct_answer": "Left Pulmonary Artery and the Aorta (distal to the left subclavian)",
+        "explanation": "The ductus arteriosus is derived from the 6th aortic arch. It connects the left pulmonary artery to the arch of the aorta, allowing fetal blood to bypass the non-functional lungs."
+    },
+    {
+        "id": 7,
+        "faculty": "Normand Leblanc",
+        "session": "B2: Cardiac Electrophysiology",
+        "question": "In a cardiac action potential, the 'plateau phase' (Phase 2) is maintained by a delicate balance of inward and outward currents. Which pair of currents is primarily responsible?",
+        "options": [
+            "Inward Calcium (L-type) and Outward Potassium (delayed rectifier)",
+            "Inward Sodium (Fast) and Outward Potassium (inward rectifier)",
+            "Inward Calcium (T-type) and Outward Chloride",
+            "Inward Sodium and Inward Calcium"
+        ],
+        "correct_answer": "Inward Calcium (L-type) and Outward Potassium (delayed rectifier)",
+        "explanation": "Phase 2 is a tug-of-war. L-type Ca2+ channels allow calcium IN (depolarizing force), while Delayed Rectifier K+ channels (IKr, IKs) allow potassium OUT (repolarizing force). They balance each other to create the plateau."
+    },
+    {
+        "id": 8,
+        "faculty": "Normand Leblanc",
+        "session": "B2: Cardiac Electrophysiology",
+        "question": "The 'Funny Current' (If) is essential for the spontaneous automaticity of the SA node. Which property uniquely characterizes this current?",
+        "options": [
+            "It is a mixed Na+/K+ inward current activated by hyperpolarization",
+            "It is a pure Na+ current activated by depolarization",
+            "It is a K+ current activated by acetylcholine",
+            "It is a Ca2+ current activated by stretch"
+        ],
+        "correct_answer": "It is a mixed Na+/K+ inward current activated by hyperpolarization",
+        "explanation": "Unlike most voltage-gated channels that open upon depolarization, the 'Funny' channel (HCN channel) opens when the membrane potential becomes very negative (hyperpolarized) at the end of repolarization, starting the next Phase 4 slope."
+    },
+    {
+        "id": 9,
+        "faculty": "Normand Leblanc",
+        "session": "B2: Video Lecture: Principles Underlying Arrhythmia",
+        "question": "Atrial Fibrillation is characterized by chaotic electrical activity in the atria. The most common 'trigger' sites for the ectopic foci initiating this arrhythmia are located in the:",
+        "options": [
+            "Pulmonary Vein sleeves",
+            "Crista Terminalis",
+            "Coronary Sinus",
+            "Left Atrial Appendage"
+        ],
+        "correct_answer": "Pulmonary Vein sleeves",
+        "explanation": "Sleeves of atrial myocardium extend into the pulmonary veins. These cells often have automaticity or triggered activity properties that can initiate the rapid firing leading to Atrial Fibrillation."
+    },
+    {
+        "id": 10,
+        "faculty": "Normand Leblanc",
+        "session": "B2: Video Lecture: Principles Underlying Arrhythmia",
+        "question": "A 'Third-Degree' (Complete) AV Block is characterized on an ECG by:",
+        "options": [
+            "Complete dissociation between P waves and QRS complexes",
+            "Progressive prolongation of the PR interval until a beat is dropped",
+            "A constant but prolonged PR interval (> 200ms)",
+            "Intermittent dropped beats with a fixed PR interval"
+        ],
+        "correct_answer": "Complete dissociation between P waves and QRS complexes",
+        "explanation": "In 3rd degree block, no atrial impulses reach the ventricles. The atria pace at their own rate (P waves) and the ventricles pace at a slower, independent escape rate (QRS). They 'march out' separately (AV dissociation)."
+    },
+    {
+        "id": 11,
+        "faculty": "Gregory Highison",
+        "session": "B2: Histology Of The Heart & Blood Vessels",
+        "question": "In the tunica media of large elastic arteries like the Aorta, the smooth muscle cells are responsible for synthesizing which key extracellular matrix component?",
+        "options": [
+            "Elastin (lamellae) and Collagen",
+            "Only Collagen type I",
+            "Heparan Sulfate only",
+            "They do not synthesize matrix; fibroblasts do"
+        ],
+        "correct_answer": "Elastin (lamellae) and Collagen",
+        "explanation": "In large arteries, there are no distinct fibroblasts in the media. The vascular smooth muscle cells synthesize the elastic lamellae, collagen, and ground substance essential for the vessel's recoil properties."
+    },
+    {
+        "id": 12,
+        "faculty": "Gregory Highison",
+        "session": "B2: Histology Of The Heart & Blood Vessels",
+        "question": "Weibel-Palade bodies are storage granules found specifically in endothelial cells. They contain which important pro-coagulant factor?",
+        "options": [
+            "von Willebrand Factor (vWF)",
+            "Fibrinogen",
+            "Prothrombin",
+            "Tissue Factor"
+        ],
+        "correct_answer": "von Willebrand Factor (vWF)",
+        "explanation": "Weibel-Palade bodies store vWF and P-selectin. Upon endothelial injury or activation, they are released to facilitate platelet adhesion and leukocyte rolling."
+    },
+    {
+        "id": 13,
+        "faculty": "Normand Leblanc",
+        "session": "B2: Cardiac EC Coupling",
+        "question": "Digitalis (Digoxin) increases cardiac contractility by inhibiting the Na+/K+ ATPase. How does this lead to increased intracellular calcium?",
+        "options": [
+            "Accumulation of intracellular Na+ reduces the driving force for the Na+/Ca2+ Exchanger (NCX), preventing Ca2+ extrusion",
+            "It directly opens the L-type Calcium Channel",
+            "It phosphorylates the Ryanodine Receptor",
+            "It inhibits the SERCA pump directly"
+        ],
+        "correct_answer": "Accumulation of intracellular Na+ reduces the driving force for the Na+/Ca2+ Exchanger (NCX), preventing Ca2+ extrusion",
+        "explanation": "The NCX normally uses the strong Na+ gradient to pump Ca2+ OUT. If Na+/K+ ATPase is blocked, intracellular Na+ rises, the gradient weakens, and NCX cannot pump Ca2+ out effectively. This loads the cell (and SR) with more Ca2+ for contraction."
+    },
+    {
+        "id": 14,
+        "faculty": "Normand Leblanc",
+        "session": "B2: Cardiac EC Coupling",
+        "question": "During the relaxation phase of the cardiac cycle (Lusitropy), calcium must be removed from the cytosol. The majority of this calcium is removed by:",
+        "options": [
+            "The Sarcoplasmic Reticulum Ca2+-ATPase (SERCA)",
+            "The Na+/Ca2+ Exchanger (NCX) on the sarcolemma",
+            "The Plasma Membrane Ca2+ ATPase (PMCA)",
+            "Mitochondrial Ca2+ uniporter"
+        ],
+        "correct_answer": "The Sarcoplasmic Reticulum Ca2+-ATPase (SERCA)",
+        "explanation": "Approximately 70-90% of cytosolic calcium is pumped back into the SR by SERCA to be stored for the next beat. About 10-30% is extruded from the cell by NCX."
+    },
+    {
+        "id": 15,
+        "faculty": "Normand Leblanc",
+        "session": "B2: Cardiac Mechanics And Regulation Of Cardiac Output",
+        "question": "Ejection Fraction (EF) is a key clinical measure of cardiac function. It is defined as:",
+        "options": [
+            "Stroke Volume divided by End-Diastolic Volume (SV / EDV)",
+            "Stroke Volume divided by End-Systolic Volume (SV / ESV)",
+            "Cardiac Output divided by Heart Rate",
+            "End-Diastolic Volume minus End-Systolic Volume"
+        ],
+        "correct_answer": "Stroke Volume divided by End-Diastolic Volume (SV / EDV)",
+        "explanation": "EF represents the percentage of blood in the ventricle that is pumped out with each beat. Normal is typically 55-70%. EF = (EDV - ESV) / EDV."
+    },
+    {
+        "id": 16,
+        "faculty": "Normand Leblanc",
+        "session": "B2: Cardiac Mechanics And Regulation Of Cardiac Output",
+        "question": "Which phase of the cardiac cycle consumes the most myocardial oxygen?",
+        "options": [
+            "Isovolumic Contraction",
+            "Rapid Ejection",
+            "Isovolumic Relaxation",
+            "Rapid Filling"
+        ],
+        "correct_answer": "Isovolumic Contraction",
+        "explanation": "During isovolumic contraction, the ventricle must generate massive wall tension to raise pressure above aortic pressure. According to the Law of Laplace (Tension ~ Pressure x Radius), this high-pressure generation consumes the most ATP/oxygen."
+    },
+    {
+        "id": 17,
+        "faculty": "Normand Leblanc",
+        "session": "82: EKG",
+        "question": "A pathologic Q wave on an ECG is traditionally defined as being wider than 0.04 seconds or deeper than 1/3 the height of the R wave. This finding usually indicates:",
+        "options": [
+            "Transmural Myocardial Infarction (scar tissue)",
+            "Acute ischemia (reversible)",
+            "Left Ventricular Hypertrophy",
+            "Pericarditis"
+        ],
+        "correct_answer": "Transmural Myocardial Infarction (scar tissue)",
+        "explanation": "Pathologic Q waves represent an electrical 'window' through infarcted/dead tissue, allowing the electrode to 'see' the vector of the opposite wall moving away from it. They indicate permanent damage."
+    },
+    {
+        "id": 18,
+        "faculty": "Normand Leblanc",
+        "session": "82: EKG",
+        "question": "The PR interval represents the time from the onset of atrial depolarization to the onset of ventricular depolarization. The normal duration is:",
+        "options": [
+            "0.12 to 0.20 seconds",
+            "0.06 to 0.10 seconds",
+            "0.20 to 0.40 seconds",
+            "Less than 0.12 seconds"
+        ],
+        "correct_answer": "0.12 to 0.20 seconds",
+        "explanation": "A PR interval > 0.20 seconds (one large box) defines a First Degree AV Block. A PR interval < 0.12 seconds suggests pre-excitation (e.g., Wolff-Parkinson-White syndrome)."
+    },
+    {
+        "id": 19,
+        "faculty": "John Westhoff",
+        "session": "B2: ESP: Diagnostic Testing Part 1",
+        "question": "Positive Predictive Value (PPV) is dependent on the prevalence of the disease in the population. If the prevalence of a disease increases, what happens to the PPV of a test?",
+        "options": [
+            "PPV increases",
+            "PPV decreases",
+            "PPV remains unchanged",
+            "Sensitivity increases"
+        ],
+        "correct_answer": "PPV increases",
+        "explanation": "PPV is the probability that a positive test is a true positive. If the disease is more common (higher prevalence), a positive result is statistically more likely to be real (true positive) rather than a false positive."
+    },
+    {
+        "id": 20,
+        "faculty": "John Westhoff",
+        "session": "B2: ESP: Diagnostic Testing Part 2",
+        "question": "The 'Fagan Nomogram' is a tool used to calculate:",
+        "options": [
+            "Post-test probability using Pre-test probability and Likelihood Ratio",
+            "Sensitivity and Specificity",
+            "Number Needed to Treat",
+            "Relative Risk"
+        ],
+        "correct_answer": "Post-test probability using Pre-test probability and Likelihood Ratio",
+        "explanation": "The Fagan Nomogram allows clinicians to draw a line from the Pre-test probability through the Likelihood Ratio to estimate the Post-test probability, applying Bayes' theorem graphically."
+    },
+    {
+        "id": 21,
+        "faculty": "Lorrel Toft",
+        "session": "B2: (REQUIRED) Case Conference Douglas Brown",
+        "question": "Mr. Brown is diagnosed with an NSTEMI. Nitroglycerin is administered. Its primary mechanism of action for relieving chest pain is:",
+        "options": [
+            "Venodilation, which reduces preload and myocardial oxygen demand",
+            "Arteriolar dilation, which reduces afterload significantly",
+            "Direct analgesic effect on cardiac nerves",
+            "Slowing the heart rate"
+        ],
+        "correct_answer": "Venodilation, which reduces preload and myocardial oxygen demand",
+        "explanation": "While Nitroglycerin is a vasodilator, at therapeutic doses it preferentially dilates veins. This pools blood peripherally, reducing venous return (preload) and wall stress, thereby lowering the heart's oxygen consumption."
+    },
+    {
+        "id": 22,
+        "faculty": "Lorrel Toft",
+        "session": "B2: (REQUIRED) Case Conference Douglas Brown",
+        "question": "In the management of Acute Coronary Syndrome (ACS), Aspirin is given immediately. Its mechanism is the irreversible inhibition of:",
+        "options": [
+            "Cyclooxygenase-1 (COX-1) and Thromboxane A2 production",
+            "P2Y12 ADP receptors",
+            "Glycoprotein IIb/IIIa receptors",
+            "Thrombin"
+        ],
+        "correct_answer": "Cyclooxygenase-1 (COX-1) and Thromboxane A2 production",
+        "explanation": "Aspirin acetylates COX-1, preventing the formation of Thromboxane A2, a potent platelet aggregator and vasoconstrictor. This prevents further clot growth."
+    },
+    {
+        "id": 23,
+        "faculty": "Violeta Mutafova",
+        "session": "B2: Circulation And Hemodynamic Principles",
+        "question": "According to Poiseuille's Law, if the radius of a blood vessel is reduced by 50% (halved), the resistance to blood flow will:",
+        "options": [
+            "Increase by a factor of 16",
+            "Increase by a factor of 2",
+            "Increase by a factor of 4",
+            "Decrease by a factor of 16"
+        ],
+        "correct_answer": "Increase by a factor of 16",
+        "explanation": "Resistance is inversely proportional to the radius raised to the 4th power (r^4). If radius is halved (1/2), resistance becomes 1 / (1/2)^4 = 1 / (1/16) = 16 times higher."
+    },
+    {
+        "id": 24,
+        "faculty": "Violeta Mutafova",
+        "session": "B2: Circulation And Hemodynamic Principles",
+        "question": "Reynolds Number (Re) predicts the transition from laminar to turbulent flow. Which condition increases the likelihood of turbulence (and murmurs)?",
+        "options": [
+            "Increased blood velocity (e.g., stenosis)",
+            "Increased blood viscosity (e.g., polycythemia)",
+            "Decreased vessel diameter",
+            "Decreased blood density"
+        ],
+        "correct_answer": "Increased blood velocity (e.g., stenosis)",
+        "explanation": "Re = (Density x Diameter x Velocity) / Viscosity. High velocity (as seen in stenosis or high output states) is the strongest driver of high Reynolds numbers and turbulence."
+    },
+    {
+        "id": 25,
+        "faculty": "Violeta Mutafova",
+        "session": "B2: Arteries, Veins, Microcirculation, And Intro To Edema",
+        "question": "Pulse Pressure is defined as Systolic minus Diastolic pressure. A decrease in arterial compliance (stiffening of arteries, e.g., arteriosclerosis) leads to:",
+        "options": [
+            "Widened (Increased) Pulse Pressure",
+            "Narrowed (Decreased) Pulse Pressure",
+            "Lower Mean Arterial Pressure",
+            "No change in Pulse Pressure"
+        ],
+        "correct_answer": "Widened (Increased) Pulse Pressure",
+        "explanation": "In stiff arteries, the vessel cannot expand to buffer the stroke volume. This causes Systolic pressure to shoot up higher and Diastolic to drop faster, widening the gap (Pulse Pressure)."
+    },
+    {
+        "id": 26,
+        "faculty": "Violeta Mutafova",
+        "session": "B2: Arteries, Veins, Microcirculation, And Intro To Edema",
+        "question": "In the Starling equation for capillary exchange, which force typically favors filtration (movement of fluid OUT of the capillary)?",
+        "options": [
+            "Capillary Hydrostatic Pressure (Pc)",
+            "Plasma Colloid Osmotic Pressure (πc)",
+            "Interstitial Hydrostatic Pressure (Pif) (usually)",
+            "Lymphatic pressure"
+        ],
+        "correct_answer": "Capillary Hydrostatic Pressure (Pc)",
+        "explanation": "Capillary hydrostatic pressure (BP in the capillary) pushes fluid out. Plasma oncotic pressure (proteins) pulls fluid in. The balance determines net filtration vs absorption."
+    },
+    {
+        "id": 27,
+        "faculty": "Cam Ha Thai Tran",
+        "session": "B2: Local Arid Systemic Control Of Circulation.",
+        "question": "Endothelial cells produce Nitric Oxide (NO), a potent vasodilator. NO acts on vascular smooth muscle by activating Guanylyl Cyclase to increase:",
+        "options": [
+            "cGMP",
+            "cAMP",
+            "IP3",
+            "Calcium"
+        ],
+        "correct_answer": "cGMP",
+        "explanation": "NO diffuses into smooth muscle cells and activates soluble Guanylyl Cyclase, producing cGMP. This activates Protein Kinase G, which lowers intracellular calcium and causes relaxation."
+    },
+    {
+        "id": 28,
+        "faculty": "Cam Ha Thai Tran",
+        "session": "B2: Local Arid Systemic Control Of Circulation.",
+        "question": "Reactive Hyperemia refers to the increase in blood flow that occurs:",
+        "options": [
+            "Following a period of ischemia (arterial occlusion)",
+            "During active muscle contraction",
+            "In response to cold exposure",
+            "During sleep"
+        ],
+        "correct_answer": "Following a period of ischemia (arterial occlusion)",
+        "explanation": "When blood flow is blocked, metabolic vasodilators accumulate. When the occlusion is released, flow surges temporarily above normal (hyperemia) to repay the oxygen debt and wash out metabolites."
+    },
+    {
+        "id": 29,
+        "faculty": "Violeta Mutafova",
+        "session": "82: Neural Reflexes/Regulation Of Arterial Pressure/Special Circulations",
+        "question": "The 'Bainbridge Reflex' causes an increase in heart rate in response to:",
+        "options": [
+            "Increased venous return stretching the right atrium",
+            "Decreased arterial pressure detected by the carotid sinus",
+            "Increased intracranial pressure",
+            "Hypoxia at the chemoreceptors"
+        ],
+        "correct_answer": "Increased venous return stretching the right atrium",
+        "explanation": "Stretch receptors in the atria sense volume overload. To prevent backup, they signal the medulla to increase Heart Rate (via vagal withdrawal and sympathetic activation) to pump the volume forward."
+    },
+    {
+        "id": 30,
+        "faculty": "Violeta Mutafova",
+        "session": "82: Neural Reflexes/Regulation Of Arterial Pressure/Special Circulations",
+        "question": "The Cushing Reflex (Triad) is a response to increased Intracranial Pressure (ICP). It presents clinically as:",
+        "options": [
+            "Hypertension, Bradycardia, and Irregular Respiration",
+            "Hypotension, Tachycardia, and Tachypnea",
+            "Hypertension, Tachycardia, and Fever",
+            "Hypotension, Bradycardia, and Apnea"
+        ],
+        "correct_answer": "Hypertension, Bradycardia, and Irregular Respiration",
+        "explanation": "High ICP compresses brain vessels, causing ischemia. The sympathetic system causes massive vasoconstriction (Hypertension) to restore perfusion. The baroreceptors sense this high BP and cause reflex Bradycardia."
+    },
+    {
+        "id": 31,
+        "faculty": "Violeta Mutafova",
+        "session": "82: Integrated Control Of CV System",
+        "question": "During moderate dynamic exercise, which hemodynamic parameter decreases?",
+        "options": [
+            "Total Peripheral Resistance (TPR)",
+            "Cardiac Output",
+            "Heart Rate",
+            "Systolic Blood Pressure"
+        ],
+        "correct_answer": "Total Peripheral Resistance (TPR)",
+        "explanation": "During exercise, metabolic vasodilation in the massive skeletal muscle bed reduces overall TPR. However, Cardiac Output increases so much (due to HR and SV) that Mean Arterial Pressure still rises slightly."
+    },
+    {
+        "id": 32,
+        "faculty": "Violeta Mutafova",
+        "session": "82: Integrated Control Of CV System",
+        "question": "In response to hemorrhage (volume loss), the body's 'decompensated' (irreversible) shock phase is characterized by:",
+        "options": [
+            "Cardiac depression and loss of vasomotor tone",
+            "Maximal sympathetic vasoconstriction",
+            "Increased heart rate to 150 bpm",
+            "Activation of RAAS"
+        ],
+        "correct_answer": "Cardiac depression and loss of vasomotor tone",
+        "explanation": "In compensated shock, reflexes maintain BP. In decompensated shock, acidosis and ischemia damage the heart (contractility fails) and the vasomotor center (vessels dilate), leading to a fatal spiral."
+    },
+    {
+        "id": 33,
+        "faculty": "Robert Harvey",
+        "session": "B2: Cardiovascular Autonomic Pharm.",
+        "question": "A patient is given Atropine for symptomatic bradycardia. Atropine acts by:",
+        "options": [
+            "Blocking Muscarinic (M2) receptors, removing vagal tone",
+            "Stimulating Beta-1 receptors directly",
+            "Blocking Alpha-1 receptors",
+            "Stimulating Nicotinic receptors"
+        ],
+        "correct_answer": "Blocking Muscarinic (M2) receptors, removing vagal tone",
+        "explanation": "Atropine is a competitive antagonist at Muscarinic receptors. By blocking the parasympathetic (vagal) 'brake' on the SA node, it allows the heart rate to rise."
+    },
+    {
+        "id": 34,
+        "faculty": "Robert Harvey",
+        "session": "B2: Cardiovascular Autonomic Pharm.",
+        "question": "Dobutamine is primarily a Beta-1 agonist used in heart failure stress testing. Its main effect is to:",
+        "options": [
+            "Increase myocardial contractility (Inotropy)",
+            "Cause peripheral vasoconstriction",
+            "Cause renal vasodilation",
+            "Decrease heart rate"
+        ],
+        "correct_answer": "Increase myocardial contractility (Inotropy)",
+        "explanation": "Dobutamine selectively stimulates Beta-1 receptors, increasing cAMP and Calcium handling, leading to a strong increase in contractility (Inotropy) and Heart Rate (Chronotropy)."
+    },
+    {
+        "id": 35,
+        "faculty": "Gregory Highison",
+        "session": "B2: Histology Of The Respiratory System",
+        "question": "Type II Pneumocytes have two critical functions: secretion of surfactant and:",
+        "options": [
+            "Acting as stem cells to regenerate Type I and Type II cells after injury",
+            "Phagocytosis of debris (Macrophage function)",
+            "Gas exchange across their thin cytoplasm",
+            "Secretion of mucus"
+        ],
+        "correct_answer": "Acting as stem cells to regenerate Type I and Type II cells after injury",
+        "explanation": "Type I cells are terminally differentiated and fragile. Type II cells are the progenitors; upon alveolar injury, they proliferate and differentiate to replace the damaged Type I lining."
+    },
+    {
+        "id": 36,
+        "faculty": "Gregory Highison",
+        "session": "B2: Histology Of The Respiratory System",
+        "question": "The 'Blood-Air Barrier' where gas exchange occurs consists of which three layers?",
+        "options": [
+            "Type I pneumocyte cytoplasm, fused basement membranes, capillary endothelial cell",
+            "Type II pneumocyte, interstitial space, endothelial cell",
+            "Mucus layer, cilia, epithelial cell",
+            "Surfactant, Type I cell, red blood cell membrane"
+        ],
+        "correct_answer": "Type I pneumocyte cytoplasm, fused basement membranes, capillary endothelial cell",
+        "explanation": "To minimize diffusion distance (approx 0.5 microns), the barrier is extremely thin, consisting of the attenuated Type I cell, the fused basal laminae of the epithelium and endothelium, and the capillary endothelium."
+    },
+    {
+        "id": 37,
+        "faculty": "Katelyn Hatfield",
+        "session": "B2: Anatomy Of The Lungs, Pleura, And Mediastina",
+        "question": "The Right Main Bronchus is wider, shorter, and more vertical than the Left. Clinically, this makes it the most likely site for:",
+        "options": [
+            "Aspiration of foreign bodies",
+            "Tuberculosis infection",
+            "Lung cancer metastasis",
+            "Pulmonary embolism"
+        ],
+        "correct_answer": "Aspiration of foreign bodies",
+        "explanation": "Because the Right Main Bronchus is more in line with the trachea (less angled), inhaled objects (peanuts, teeth) tend to fall into the right lung, specifically the lower lobe."
+    },
+    {
+        "id": 38,
+        "faculty": "Katelyn Hatfield",
+        "session": "B2: Anatomy Of The Lungs, Pleura, And Mediastina",
+        "question": "A 'Bronchopulmonary Segment' is the functional surgical unit of the lung. It is supplied independently by:",
+        "options": [
+            "A Segmental (Tertiary) Bronchus and a Segmental branch of the Pulmonary Artery",
+            "A Lobar Bronchus and a Pulmonary Vein",
+            "A Main Bronchus and a Bronchial Artery",
+            "A Terminal Bronchiole and a Lymphatic vessel"
+        ],
+        "correct_answer": "A Segmental (Tertiary) Bronchus and a Segmental branch of the Pulmonary Artery",
+        "explanation": "Each segment has its own airway and arterial supply running centrally. The pulmonary veins, however, run inter-segmentally (between segments) in the septa."
+    },
+    {
+        "id": 39,
+        "faculty": "Robert Harvey",
+        "session": "B2: Mechanical Properties Of The Lungs",
+        "question": "Hysteresis describes the phenomenon where:",
+        "options": [
+            "The lung volume at a given pressure is different during inflation vs. deflation",
+            "Airway resistance decreases as lung volume increases",
+            "Compliance is constant throughout the respiratory cycle",
+            "Surfactant production ceases at high volumes"
+        ],
+        "correct_answer": "The lung volume at a given pressure is different during inflation vs. deflation",
+        "explanation": "Due to surface tension effects, the pressure required to open alveoli during inflation is higher than the pressure to keep them open during deflation. This creates a loop on the Pressure-Volume curve called Hysteresis."
+    },
+    {
+        "id": 40,
+        "faculty": "Robert Harvey",
+        "session": "B2: Mechanical Properties Of The Lungs",
+        "question": "At 'Functional Residual Capacity' (FRC), the elastic recoil of the lungs (inward) is:",
+        "options": [
+            "Equal and opposite to the elastic recoil of the chest wall (outward)",
+            "Zero",
+            "Greater than the chest wall recoil",
+            "Less than the chest wall recoil"
+        ],
+        "correct_answer": "Equal and opposite to the elastic recoil of the chest wall (outward)",
+        "explanation": "FRC is the equilibrium point of the respiratory system at rest (end of a normal exhale). The tendency of the lung to collapse is perfectly balanced by the tendency of the chest wall to spring out."
+    },
+    {
+        "id": 41,
+        "faculty": "Rick Maier, Sneha Surapaneni",
+        "session": "B2: Hemoglobin And Blood Gas Transport",
+        "question": "Fetal Hemoglobin (HbF) has a higher affinity for oxygen than Adult Hemoglobin (HbA). This is primarily because HbF:",
+        "options": [
+            "Binds 2,3-BPG less effectively than HbA",
+            "Has four alpha chains",
+            "Has a different heme structure",
+            "Exists in a monomeric form"
+        ],
+        "correct_answer": "Binds 2,3-BPG less effectively than HbA",
+        "explanation": "2,3-BPG stabilizes the deoxygenated (T) state, lowering O2 affinity. HbF (Alpha2, Gamma2) has a modified binding pocket that doesn't bind 2,3-BPG well, keeping it in the high-affinity R state to steal oxygen from the mother."
+    },
+    {
+        "id": 42,
+        "faculty": "Rick Maier, Sneha Surapaneni",
+        "session": "B2: Hemoglobin And Blood Gas Transport",
+        "question": "Methemoglobinemia occurs when the iron in heme is oxidized to the Ferric (Fe3+) state. This renders the hemoglobin:",
+        "options": [
+            "Incapable of binding oxygen",
+            "Capable of binding oxygen but unable to release it (super-high affinity)",
+            "Blue in color (cyanosis)",
+            "Unstable and prone to precipitation"
+        ],
+        "correct_answer": "Incapable of binding oxygen",
+        "explanation": "Only Ferrous (Fe2+) iron can bind oxygen. Methemoglobin (Fe3+) cannot bind O2, effectively reducing the oxygen carrying capacity of the blood (functional anemia) and causing 'chocolate brown' blood."
+    },
+    {
+        "id": 43,
+        "faculty": "John Westhoff",
+        "session": "B2: ESP: Chance, Part 1",
+        "question": "The 'Null Hypothesis' (H0) typically states that:",
+        "options": [
+            "There is NO true difference or association between the groups being studied",
+            "The experimental treatment is better than the placebo",
+            "The results are due to bias",
+            "The sample size is too small"
+        ],
+        "correct_answer": "There is NO true difference or association between the groups being studied",
+        "explanation": "Statistical testing starts by assuming the Null Hypothesis (no effect) is true. We calculate a p-value to see if the data provides enough evidence to reject this 'boring' starting assumption."
+    },
+    {
+        "id": 44,
+        "faculty": "Phillip Breslow",
+        "session": "B2: (REQUIRED) Cardiopulmonary Ultrasound",
+        "question": "In lung ultrasound, the 'Seashore Sign' on M-mode is a normal finding that indicates:",
+        "options": [
+            "Normal lung sliding at the pleural interface",
+            "Pneumothorax",
+            "Pulmonary edema",
+            "Pneumonia"
+        ],
+        "correct_answer": "Normal lung sliding at the pleural interface",
+        "explanation": "The 'Seashore Sign' shows static chest wall layers (waves) and granular/sandy moving lung tissue below the pleural line (sand). If the lung is not sliding (Pneumothorax), you see the 'Barcode Sign' (stratosphere sign)."
+    },
+    {
+        "id": 45,
+        "faculty": "Phillip Breslow",
+        "session": "B2: (REQUIRED) Cardiopulmonary Ultrasound",
+        "question": "To assess for a pericardial effusion (fluid around the heart), which ultrasound view is often the most sensitive and is part of the FAST exam?",
+        "options": [
+            "Subxiphoid (Subcostal) View",
+            "Parasternal Short Axis",
+            "Apical 2-Chamber",
+            "Suprasternal Notch"
+        ],
+        "correct_answer": "Subxiphoid (Subcostal) View",
+        "explanation": "The Subxiphoid view uses the liver as an acoustic window to look up at the heart. It is excellent for visualizing fluid in the pericardial sac (an echo-free black space surrounding the heart)."
+    },
+    {
+        "id": 46,
+        "faculty": "Katelyn Hatfield",
+        "session": "B2: Anatomy Of The Lungs, Pleura, And Mediastina",
+        "question": "The parietal pleura is innervated by somatic nerves and is sensitive to pain. Inflammation of the diaphragmatic pleura often causes referred pain to the shoulder. This is mediated by the:",
+        "options": [
+            "Phrenic Nerve (C3, C4, C5)",
+            "Intercostal Nerves",
+            "Vagus Nerve",
+            "Brachial Plexus"
+        ],
+        "correct_answer": "Phrenic Nerve (C3, C4, C5)",
+        "explanation": "The Phrenic nerve innervates the central diaphragm and its pleura. Because it shares spinal roots (C3-C5) with the supraclavicular nerves (shoulder skin), pain is referred to the shoulder tip (Kehr's sign)."
+    },
+    {
+        "id": 47,
+        "faculty": "Cam Ha Thai Tran",
+        "session": "B2: Overview Of Renal Function And Blood Flow",
+        "question": "Filtration Fraction (FF) is defined as GFR / Renal Plasma Flow. If a patient has a GFR of 120 ml/min and an RPF of 600 ml/min, the Filtration Fraction is:",
+        "options": [
+            "20% (0.20)",
+            "50% (0.50)",
+            "10% (0.10)",
+            "100% (1.0)"
+        ],
+        "correct_answer": "20% (0.20)",
+        "explanation": "FF = 120/600 = 0.2 or 20%. This implies that 20% of the plasma entering the kidney is filtered into Bowman's space, while 80% continues into the peritubular capillaries."
+    },
+    {
+        "id": 48,
+        "faculty": "Cam Ha Thai Tran",
+        "session": "B2: Renal Handling Of HCO3",
+        "question": "In the Collecting Duct, the Alpha-Intercalated cells are responsible for fine-tuning acid-base balance by:",
+        "options": [
+            "Secreting H+ via an H+-ATPase and H+/K+-ATPase",
+            "Secreting Bicarbonate via Pendrin",
+            "Reabsorbing Na+ via ENaC",
+            "Generating new Bicarbonate via Glutamine metabolism"
+        ],
+        "correct_answer": "Secreting H+ via an H+-ATPase and H+/K+-ATPase",
+        "explanation": "Alpha-Intercalated cells are the 'Acid-Secreting' cells. They actively pump protons into the lumen to acidify the urine and reabsorb 'new' bicarbonate into the blood to fix acidosis."
+    },
+    {
+        "id": 49,
+        "faculty": "Cam Ha Thai Tran",
+        "session": "B2: Concentration & Dilution Of Urine",
+        "question": "The 'Countercurrent Multiplier' system creates the medullary gradient, but the 'Countercurrent Exchanger' maintains it. Which vascular structure acts as the exchanger?",
+        "options": [
+            "Vasa Recta",
+            "Glomerulus",
+            "Peritubular Capillaries (Cortical)",
+            "Arcuate Arteries"
+        ],
+        "correct_answer": "Vasa Recta",
+        "explanation": "The Vasa Recta are hairpin-shaped capillaries that dip into the medulla. They passively exchange salt and water to nourish the medulla without washing away the hyperosmotic gradient ('washout')."
+    },
+    {
+        "id": 50,
+        "faculty": "Carl Sievert",
+        "session": "B2: Intro To CXR And Thoracic CT",
+        "question": "On a PA Chest X-ray, the 'Costophrenic Angles' (where the diaphragm meets the ribs) should be sharp. Blunting of these angles typically indicates:",
+        "options": [
+            "Pleural Effusion",
+            "Pneumothorax",
+            "Hyperinflation (COPD)",
+            "Cardiomegaly"
+        ],
+        "correct_answer": "Pleural Effusion",
+        "explanation": "Fluid accumulates in the lowest part of the pleural space (gravity). It fills the sharp costophrenic angle, creating a meniscus or 'blunting' visible on X-ray."
+    },
+    {
+        "id": 51,
+        "faculty": "William Gerthoffer; Cherie Singer; Heathe",
+        "session": "B2: Anemia Pharmacology",
+        "question": "Erythropoiesis-Stimulating Agents (ESAs) like Epoetin alfa are used to treat anemia in CKD. A major side effect risk associated with raising the Hemoglobin too high (>11-12 g/dL) is:",
+        "options": [
+            "Thromboembolism and Hypertension",
+            "Hypokalemia",
+            "Bleeding",
+            "Liver failure"
+        ],
+        "correct_answer": "Thromboembolism and Hypertension",
+        "explanation": "Increasing red cell mass increases blood viscosity. If corrected too aggressively or too high, this significantly raises the risk of stroke, MI, and clotting events, as well as worsening hypertension."
+    },
+    {
+        "id": 52,
+        "faculty": "Timothy Baker",
+        "session": "B2: Application Of Pulmonary Function Tests",
+        "question": "The Diffusing Capacity of the Lung for Carbon Monoxide (DLCO) measures the gas exchange surface area. In which condition is DLCO typically decreased?",
+        "options": [
+            "Pulmonary Fibrosis (thickened barrier) or Emphysema (lost surface area)",
+            "Asthma (pure airway disease)",
+            "Chronic Bronchitis (airway mucus)",
+            "Obesity (chest wall restriction)"
+        ],
+        "correct_answer": "Pulmonary Fibrosis (thickened barrier) or Emphysema (lost surface area)",
+        "explanation": "DLCO is low when the alveolar-capillary membrane is damaged. In Fibrosis, the wall is thick (barrier to diffusion). In Emphysema, the walls are destroyed (less surface area). In Asthma, the membrane is intact, so DLCO is normal/high."
+    },
+    {
+        "id": 53,
+        "faculty": "Sneha Surapaneni",
+        "session": "B2: Gas Exchange",
+        "question": "At the top of the lung (Apex) in a standing person, V/Q ratios are:",
+        "options": [
+            "High (> 3.0), because perfusion is very low compared to ventilation",
+            "Low (< 0.6), because ventilation is absent",
+            "Ideally matched (1.0)",
+            "Zero, because alveoli are collapsed"
+        ],
+        "correct_answer": "High (> 3.0), because perfusion is very low compared to ventilation",
+        "explanation": "Gravity pulls blood to the base. The apex has poor perfusion (Q) but remains open/ventilated (V). Thus V/Q is high. This predisposes the apex to high O2 tension (and TB infection)."
+    },
+    {
+        "id": 54,
+        "faculty": "Sneha Surapaneni",
+        "session": "B2: Gas Exchange",
+        "question": "Carbon Dioxide (CO2) transport in the blood occurs in three forms. The majority (70%) is transported as:",
+        "options": [
+            "Bicarbonate (HCO3-)",
+            "Carbaminohemoglobin (bound to Hb)",
+            "Dissolved CO2 in plasma",
+            "Carbonic Acid"
+        ],
+        "correct_answer": "Bicarbonate (HCO3-)",
+        "explanation": "CO2 enters the RBC, is rapidly converted by Carbonic Anhydrase to H+ and HCO3-. The HCO3- is pumped out into the plasma (chloride shift) and carries the bulk of CO2 to the lungs."
+    },
+    {
+        "id": 55,
+        "faculty": "Adam Safdi",
+        "session": "B2: The Fundamentals Of Buffers And Blood Gases",
+        "question": "The Henderson-Hasselbalch equation describes the relationship between pH, HCO3-, and pCO2. If pCO2 increases (respiratory acidosis), the pH will:",
+        "options": [
+            "Decrease",
+            "Increase",
+            "Remain constant",
+            "Depend on the Anion Gap"
+        ],
+        "correct_answer": "Decrease",
+        "explanation": "CO2 is an acid (volatile acid). An increase in the denominator (pCO2) of the HH equation lowers the ratio of Base/Acid, causing the pH to fall (Acidosis)."
+    },
+    {
+        "id": 56,
+        "faculty": "John Westhoff",
+        "session": "B2: ESP: Chance Part 2",
+        "question": "Power is defined as (1 - Beta). It represents the probability of:",
+        "options": [
+            "Correctly rejecting the null hypothesis when it is false (Finding a true difference)",
+            "Making a Type I error",
+            "Accepting the null hypothesis when it is true",
+            "Calculating the correct sample size"
+        ],
+        "correct_answer": "Correctly rejecting the null hypothesis when it is false (Finding a true difference)",
+        "explanation": "High Power (usually aimed at >80%) means your study is big enough to find a difference if one actually exists. It prevents Type II errors (False Negatives)."
+    },
+    {
+        "id": 57,
+        "faculty": "William Gerthoffer; Cherie Singer; Heathe",
+        "session": "B2: Anemia Pharmacology",
+        "question": "Oral iron absorption occurs primarily in the duodenum and requires the iron to be in which oxidation state?",
+        "options": [
+            "Ferrous (Fe2+)",
+            "Ferric (Fe3+)",
+            "Bound to Ferritin",
+            "Elemental Iron (Fe0)"
+        ],
+        "correct_answer": "Ferrous (Fe2+)",
+        "explanation": "DMT1 (Divalent Metal Transporter 1) only transports Fe2+. Stomach acid helps reduce dietary Fe3+ to Fe2+. This is why Vitamin C (ascorbic acid) aids absorption."
+    },
+    {
+        "id": 58,
+        "faculty": "Carl Sievert",
+        "session": "B2: Intro To CXR And Thoracic CT",
+        "question": "A Pneumothorax (air in the pleural space) typically appears on a chest X-ray as:",
+        "options": [
+            "A visceral pleural line with absence of lung markings distally (hyperlucent)",
+            "A wedge-shaped opacity",
+            "Diffuse patchy infiltrates",
+            "Enlargement of the cardiac silhouette"
+        ],
+        "correct_answer": "A visceral pleural line with absence of lung markings distally (hyperlucent)",
+        "explanation": "Air in the pleural space separates the lung from the chest wall. You see the edge of the collapsed lung (pleural line) and sheer blackness (air) outside it, with no blood vessels visible."
+    },
+    {
+        "id": 59,
+        "faculty": "Adam Safdi",
+        "session": "B2: Simple Acid-Base Disturbances (And Venous Electrolytes)",
+        "question": "Metabolic Alkalosis (high HCO3-, high pH) is often maintained by 'contraction' (volume depletion). What is the mechanism?",
+        "options": [
+            "Aldosterone activation saves Na+ at the expense of secreting H+ and K+",
+            "Decreased GFR prevents filtration of bicarbonate",
+            "Hyperventilation blows off too much CO2",
+            "Shift of H+ out of cells"
+        ],
+        "correct_answer": "Aldosterone activation saves Na+ at the expense of secreting H+ and K+",
+        "explanation": "To restore volume, the kidney avidly reabsorbs Na+. Aldosterone facilitates this but forces the secretion of H+ (maintaining alkalosis) and K+ (causing hypokalemia). This is 'Contraction Alkalosis'."
+    },
+    {
+        "id": 60,
+        "faculty": "Adam Safdi",
+        "session": "B2: Simple Acid-Base Disturbances (And Venous Electrolytes)",
+        "question": "Winter's Formula is used to determine if the respiratory compensation for Metabolic Acidosis is appropriate. It predicts the expected:",
+        "options": [
+            "PaCO2",
+            "HCO3-",
+            "pH",
+            "Anion Gap"
+        ],
+        "correct_answer": "PaCO2",
+        "explanation": "Winter's Formula (Expected pCO2 = 1.5 x HCO3 + 8 +/- 2) tells you what the lungs *should* be doing. If the actual pCO2 matches, it's simple compensation. If actual pCO2 is higher, there is a concomitant Respiratory Acidosis."
+    },
+    {
+        "id": 61,
+        "faculty": "Timothy Baker",
+        "session": "B2: (REQUIRED) Case Conference-Winston Marlboro",
+        "question": "In COPD, the 'Blue Bloater' phenotype (Chronic Bronchitis) is characterized by:",
+        "options": [
+            "Productive cough, cyanosis, and right heart failure (Cor Pulmonale)",
+            "Severe dyspnea, thin physique, and pink skin (Pink Puffer)",
+            "Normal blood gases",
+            "Restrictive pattern on spirometry"
+        ],
+        "correct_answer": "Productive cough, cyanosis, and right heart failure (Cor Pulmonale)",
+        "explanation": "Chronic bronchitis involves mucus hypersecretion and airway narrowing. This leads to V/Q mismatch, hypoxemia (cyanosis), and hypoxic vasoconstriction causing pulmonary hypertension and Right Heart Failure (bloating/edema)."
+    },
+    {
+        "id": 62,
+        "faculty": "Timothy Baker",
+        "session": "B2: (REQUIRED) Case Conference-Winston Marlboro",
+        "question": "For a patient with an acute exacerbation of COPD, giving too much oxygen can dangerously increase PaCO2. One mechanism for this is the 'Haldane Effect', which describes:",
+        "options": [
+            "Oxygenated hemoglobin binds CO2 less effectively, releasing it into the blood",
+            "Oxygen causes bronchodilation increasing dead space",
+            "Oxygen suppresses the central respiratory drive",
+            "Oxygen causes pulmonary vasoconstriction"
+        ],
+        "correct_answer": "Oxygenated hemoglobin binds CO2 less effectively, releasing it into the blood",
+        "explanation": "Deoxygenated Hb is a better buffer for CO2. When you flood the blood with O2, Hb dumps its CO2 load into the plasma (Haldane effect), raising PaCO2 if the patient cannot ventilate it off."
+    },
+    {
+        "id": 63,
+        "faculty": "Gregory Highison",
+        "session": "B2: Histology Of The Lymphatic System",
+        "question": "The Spleen has two distinct functional zones. The Red Pulp is primarily responsible for:",
+        "options": [
+            "Filtration of blood and removal of old RBCs",
+            "Activation of T-cells",
+            "Proliferation of B-cells",
+            "Production of Thymosin"
+        ],
+        "correct_answer": "Filtration of blood and removal of old RBCs",
+        "explanation": "The Red Pulp contains sinusoids and cords of Billroth where macrophages scrutinize RBCs. Old/stiff RBCs cannot pass through the slits and are eaten. The White Pulp is the lymphoid (immune) tissue."
+    },
+    {
+        "id": 64,
+        "faculty": "Gregory Highison",
+        "session": "B2: Histology Of The Lymphatic System",
+        "question": "The Thoracic Duct drains lymph from the entire body EXCEPT for:",
+        "options": [
+            "The Right Upper Quadrant (Right head, neck, arm, and chest)",
+            "The Left Upper Quadrant",
+            "The Lower Extremities",
+            "The Abdomen"
+        ],
+        "correct_answer": "The Right Upper Quadrant (Right head, neck, arm, and chest)",
+        "explanation": "The Right Lymphatic Duct drains the Right Upper Quadrant. The Thoracic Duct (the big one) drains everything else (both legs, abdomen, left chest, left arm, left head)."
+    },
+    {
+        "id": 65,
+        "faculty": "Gillian Moritz",
+        "session": "B2: Posterior Approach To Kidneys",
+        "question": "The ureters run retroperitoneally from the kidney to the bladder. As they cross the pelvic brim, they pass immediately anterior to which vessel?",
+        "options": [
+            "The bifurcation of the Common Iliac Artery",
+            "The Renal Artery",
+            "The Inferior Vena Cava",
+            "The Femoral Artery"
+        ],
+        "correct_answer": "The bifurcation of the Common Iliac Artery",
+        "explanation": "This is a key landmark ('Water under the bridge' refers to the uterine artery, but at the brim, the ureter crosses *over* the iliacs). They are at risk of injury during pelvic surgery here."
+    },
+    {
+        "id": 66,
+        "faculty": "Thomas Gould",
+        "session": "B2: Regulation Of Osmolality And Volume. Na+ Homeostasis",
+        "question": "Atrial Natriuretic Peptide (ANP) is released in response to atrial stretch (volume overload). Its primary renal effect is to:",
+        "options": [
+            "Dilate the afferent arteriole and inhibit Sodium reabsorption in the collecting duct",
+            "Constrict the afferent arteriole to lower GFR",
+            "Stimulate Renin release",
+            "Increase Sodium reabsorption in the PCT"
+        ],
+        "correct_answer": "Dilate the afferent arteriole and inhibit Sodium reabsorption in the collecting duct",
+        "explanation": "ANP is the 'anti-Aldosterone'. It increases GFR (to filter more load) and directly inhibits Na+ channels (ENaC) in the collecting duct to cause natriuresis (salt loss) and volume reduction."
+    },
+    {
+        "id": 67,
+        "faculty": "Thomas Gould",
+        "session": "B2: Regulation Of Osmolality And Volume. Na+ Homeostasis",
+        "question": "A patient consumes a bag of salty chips (hypertonic NaCl) without water. What happens to their body fluid compartments?",
+        "options": [
+            "ECF volume increases, ICF volume decreases, Osmolality increases in both",
+            "ECF volume decreases, ICF volume increases",
+            "Both ECF and ICF volumes increase",
+            "No change in volumes, only Osmolality changes"
+        ],
+        "correct_answer": "ECF volume increases, ICF volume decreases, Osmolality increases in both",
+        "explanation": "The salt stays in the ECF, raising ECF osmolality. This pulls water OUT of the cells (ICF) into the ECF. Result: Cell shrinkage (ICF down) and ECF expansion, with high osmolality everywhere."
+    },
+    {
+        "id": 68,
+        "faculty": "Christine Cremo (Video)",
+        "session": "B2: Hemoglobin And Blood Gas Transport",
+        "question": "Iron is transported in the plasma bound to Transferrin. The cellular uptake of iron occurs via:",
+        "options": [
+            "Receptor-mediated endocytosis of the Transferrin-Iron complex",
+            "Direct diffusion of iron across the membrane",
+            "Active pumping via Ferroportin",
+            "Phagocytosis of red blood cells"
+        ],
+        "correct_answer": "Receptor-mediated endocytosis of the Transferrin-Iron complex",
+        "explanation": "Cells needing iron express Transferrin Receptors (TfR1). The Tf-Fe complex binds, is endocytosed, and iron is released in the acidic endosome. The receptor recycles."
+    },
+    {
+        "id": 69,
+        "faculty": "Christine Cremo (Video)",
+        "session": "B2: Hemoglobin And Blood Gas Transport",
+        "question": "The rate-limiting enzyme in Heme synthesis, which is inhibited by high levels of Heme (feedback inhibition), is:",
+        "options": [
+            "ALA Synthase (Aminolevulinic acid synthase)",
+            "Ferrochelatase",
+            "PBG Deaminase",
+            "Heme Oxygenase"
+        ],
+        "correct_answer": "ALA Synthase (Aminolevulinic acid synthase)",
+        "explanation": "ALA Synthase catalyzes the first step (Glycine + Succinyl CoA). It is tightly regulated by free heme levels to prevent toxic accumulation of porphyrin intermediates."
+    },
+    {
+        "id": 70,
+        "faculty": "Adam Safdi",
+        "session": "B2: Simple Acid-Base Disturbances (And Venous Electrolytes)",
+        "question": "Type 4 Renal Tubular Acidosis (Hyperkalemic RTA) is primarily caused by:",
+        "options": [
+            "Aldosterone deficiency or resistance (Hypoaldosteronism)",
+            "Defect in the H+ pump of the distal tubule",
+            "Defect in bicarbonate reabsorption in the proximal tubule",
+            "Chronic diarrhea"
+        ],
+        "correct_answer": "Aldosterone deficiency or resistance (Hypoaldosteronism)",
+        "explanation": "Aldosterone normally dumps K+ and H+. Lack of aldosterone (e.g., Diabetic nephropathy, ACE inhibitors) leads to retention of K+ (Hyperkalemia) and H+ (Acidosis), hence Type 4 RTA."
+    },
+    {
+        "id": 71,
+        "faculty": "Fadi Najjar",
+        "session": "B2: Control Of Glomerular Filtration",
+        "question": "Tubuloglomerular Feedback (TGF) is an autoregulatory mechanism. When the Macula Densa senses high NaCl delivery (indicating high GFR), it releases Adenosine to cause:",
+        "options": [
+            "Afferent arteriole constriction, reducing GFR",
+            "Efferent arteriole constriction, increasing GFR",
+            "Systemic vasodilation",
+            "Increased Renin release"
+        ],
+        "correct_answer": "Afferent arteriole constriction, reducing GFR",
+        "explanation": "High flow/salt at the macula densa means the kidney is working too hard. Adenosine is released locally, constricting the afferent arteriole to clamp down on flow and normalize GFR."
+    },
+    {
+        "id": 72,
+        "faculty": "Fadi Najjar",
+        "session": "B2: Control Of Glomerular Filtration",
+        "question": "Glucose is reabsorbed in the proximal tubule by SGLT2 transporters. The 'Transport Maximum' (Tm) for glucose explains why:",
+        "options": [
+            "Glucosuria (sugar in urine) only occurs once plasma glucose exceeds a threshold (approx 200 mg/dL)",
+            "Glucose is never found in the urine",
+            "Glucose clearance is always equal to Inulin clearance",
+            "Glucose is secreted at high concentrations"
+        ],
+        "correct_answer": "Glucosuria (sugar in urine) only occurs once plasma glucose exceeds a threshold (approx 200 mg/dL)",
+        "explanation": "Transporters can saturate. Below the threshold, all glucose is reabsorbed. Above the Tm, the transporters are full, and excess glucose spills into the urine (as seen in uncontrolled Diabetes)."
+    },
+    {
+        "id": 73,
+        "faculty": "Elie Firzli",
+        "session": "B2: RTA + Vomiting",
+        "question": "Type 2 (Proximal) Renal Tubular Acidosis is characterized by a defect in:",
+        "options": [
+            "Bicarbonate reabsorption in the Proximal Tubule",
+            "H+ secretion in the Distal Tubule",
+            "Aldosterone signaling",
+            "Ammonia production"
+        ],
+        "correct_answer": "Bicarbonate reabsorption in the Proximal Tubule",
+        "explanation": "In Type 2 RTA, the PCT fails to reclaim the massive load of filtered HCO3-. This creates a 'self-limiting' acidosis because once plasma bicarb falls low enough, the distal nephron can handle the smaller load."
+    },
+    {
+        "id": 74,
+        "faculty": "Elie Firzli",
+        "session": "B2: RTA + Vomiting",
+        "question": "The 'Winter's Formula' calculation is not applicable in vomiting-induced metabolic alkalosis. Instead, the expected respiratory compensation for Metabolic Alkalosis is:",
+        "options": [
+            "Hypoventilation (increase in PaCO2)",
+            "Hyperventilation (decrease in PaCO2)",
+            "No change in respiration",
+            "Kussmaul breathing"
+        ],
+        "correct_answer": "Hypoventilation (increase in PaCO2)",
+        "explanation": "To buffer the high Bicarb (Base), the lungs slow down to retain CO2 (Acid). However, this compensation is limited by the body's need for Oxygen (hypoxia drive prevents infinite hypoventilation)."
+    },
+    {
+        "id": 75,
+        "faculty": "Thomas Gould",
+        "session": "B2: Transport Of Ions And Water Potassium Homeostasis",
+        "question": "Insulin is a critical regulator of acute potassium balance. It shifts K+ into cells by:",
+        "options": [
+            "Stimulating the Na+/K+ ATPase",
+            "Opening K+ leak channels",
+            "Inhibiting the H+/K+ ATPase",
+            "Binding to intracellular potassium"
+        ],
+        "correct_answer": "Stimulating the Na+/K+ ATPase",
+        "explanation": "Insulin drives the Na+/K+ pump, moving K+ from the ECF into the ICF (muscle/liver). This is why Insulin+Glucose is a standard emergency treatment for severe Hyperkalemia."
+    },
+    {
+        "id": 76,
+        "faculty": "David St-Jules",
+        "session": "B2: Renal Nutrition",
+        "question": "Potassium restriction is critical in advanced CKD. Which food group is notoriously high in potassium and often restricted?",
+        "options": [
+            "Citrus fruits, bananas, and potatoes",
+            "White rice and bread",
+            "Apples and grapes",
+            "Chicken and fish"
+        ],
+        "correct_answer": "Citrus fruits, bananas, and potatoes",
+        "explanation": "Many 'healthy' fruits and vegetables are potassium bombs. Patients with renal failure cannot excrete K+ and must avoid these to prevent fatal arrhythmias."
+    },
+    {
+        "id": 77,
+        "faculty": "David St-Jules",
+        "session": "B2: Renal Nutrition",
+        "question": "In Nephrotic Syndrome, patients lose massive amounts of protein. Despite this, high-protein diets are often discouraged because:",
+        "options": [
+            "They can increase intraglomerular pressure and worsen proteinuria/damage",
+            "They cause hyperkalemia",
+            "They lead to kidney stones",
+            "They cause liver damage"
+        ],
+        "correct_answer": "They can increase intraglomerular pressure and worsen proteinuria/damage",
+        "explanation": "Protein load increases GFR (hyperfiltration). In a damaged kidney, this extra pressure accelerates sclerosis. Normal or modest protein intake is preferred over high loading."
+    },
+    {
+        "id": 78,
+        "faculty": "Kelsey Gipe",
+        "session": "B2: (REQUIRED) Decision Making Capacity",
+        "question": "If a patient lacks decision-making capacity and has no Advance Directive or Proxy, who is usually the default surrogate decision maker in most hierarchies?",
+        "options": [
+            "Spouse",
+            "Adult Children",
+            "Parents",
+            " siblings"
+        ],
+        "correct_answer": "Spouse",
+        "explanation": "The typical legal hierarchy is: Spouse -> Adult Children -> Parents -> Siblings. (Though this can vary slightly by state, Spouse is almost always first)."
+    },
+    {
+        "id": 79,
+        "faculty": "Kelsey Gipe",
+        "session": "B2: (REQUIRED) Decision Making Capacity",
+        "question": "'Substituted Judgment' is the ethical standard a surrogate should use. This means:",
+        "options": [
+            "Making the decision the patient WOULD have made if they were able",
+            "Making the decision that is in the patient's best medical interest",
+            "Making the decision the surrogate feels is right",
+            "Asking the doctor to decide"
+        ],
+        "correct_answer": "Making the decision the patient WOULD have made if they were able",
+        "explanation": "The surrogate acts as the patient's voice, using the patient's known values and wishes. 'Best Interest' is a fallback standard only used if the patient's values are unknown."
+    },
+    {
+        "id": 80,
+        "faculty": "John Westhoff",
+        "session": "82: (REQUIRED) ESP: Artificial Intelligence in Medicine",
+        "question": "A major risk of using AI in clinical diagnosis is 'Automation Bias'. This refers to:",
+        "options": [
+            "The tendency of humans to over-rely on and accept AI suggestions without critical scrutiny",
+            "The AI being biased against certain demographics",
+            "The AI failing to work offline",
+            "The high cost of automation"
+        ],
+        "correct_answer": "The tendency of humans to over-rely on and accept AI suggestions without critical scrutiny",
+        "explanation": "Clinicians may become complacent and assume the 'computer is right', potentially missing errors that the AI makes or ignoring their own clinical intuition."
+    },
+    {
+        "id": 81,
+        "faculty": "Tom Hovenic",
+        "session": "B2: (REQUIRED) Case Conference - Naomi Davis",
+        "question": "In IgA Nephropathy (Berger's Disease), the classic presentation differs from Post-Strep GN in timing. IgA Nephropathy typically presents with hematuria:",
+        "options": [
+            "Synpharyngitic (Concurrent with a respiratory infection, 1-2 days)",
+            "Weeks after a skin or throat infection (1-3 weeks)",
+            "Only in the elderly",
+            "Without any precipitating illness"
+        ],
+        "correct_answer": "Synpharyngitic (Concurrent with a respiratory infection, 1-2 days)",
+        "explanation": "IgA flares up *during* the cold (Synpharyngitic). PSGN takes weeks to develop antibody complexes (Post-infectious latency)."
+    },
+    {
+        "id": 82,
+        "faculty": "Tom Hovenic",
+        "session": "B2: (REQUIRED) Case Conference - Naomi Davis",
+        "question": "A 24-hour urine collection for Naomi Davis shows 1.5 grams of protein. This level of proteinuria is classified as:",
+        "options": [
+            "Sub-nephrotic range",
+            "Nephrotic range (> 3.5g)",
+            "Normal",
+            "Microalbuminuria"
+        ],
+        "correct_answer": "Sub-nephrotic range",
+        "explanation": "Nephrotic range is defined as > 3.5g/24hr. Values between normal (<150mg) and 3.5g are 'sub-nephrotic', typical of Nephritic syndromes like PSGN or IgA."
+    },
+    {
+        "id": 83,
+        "faculty": "Thomas Gould",
+        "session": "B2: Histology Of The Urinary System",
+        "question": "Podocytes are specialized epithelial cells in the glomerulus. Their 'foot processes' (pedicels) form the filtration slits. The integrity of these slits relies on proteins like:",
+        "options": [
+            "Nephrin and Podocin",
+            "Collagen IV",
+            "Actin and Myosin",
+            "Keratin"
+        ],
+        "correct_answer": "Nephrin and Podocin",
+        "explanation": "Nephrin forms the 'zipper' of the slit diaphragm. Mutations in Nephrin (e.g., Congenital Nephrotic Syndrome) lead to massive protein leak and kidney failure."
+    },
+    {
+        "id": 84,
+        "faculty": "Thomas Gould",
+        "session": "B2: Histology Of The Urinary System",
+        "question": "The Proximal Convoluted Tubule is histologically distinct due to its prominent 'Brush Border'. This structure consists of:",
+        "options": [
+            "Microvilli to increase surface area for reabsorption",
+            "Cilia to move fluid",
+            "Stereocilia",
+            "Keratinized layers"
+        ],
+        "correct_answer": "Microvilli to increase surface area for reabsorption",
+        "explanation": "The PCT does the heavy lifting (reabsorbing 65% of everything). The dense microvilli (brush border) massively increase surface area to accommodate the necessary transporters."
+    },
+    {
+        "id": 85,
+        "faculty": "Thomas Gould",
+        "session": "B2: Development Of The Urinary System",
+        "question": "Potter Sequence (flattened face, limb deformities, pulmonary hypoplasia) is a fatal consequence of:",
+        "options": [
+            "Oligohydramnios (Low amniotic fluid) due to renal agenesis/failure",
+            "Polyhydramnios",
+            "Maternal diabetes",
+            "Chromosomal trisomy"
+        ],
+        "correct_answer": "Oligohydramnios (Low amniotic fluid) due to renal agenesis/failure",
+        "explanation": "Fetal urine makes up the amniotic fluid. Without kidneys (agenesis), there is no fluid. The fetus is compressed by the uterus (deformities) and, crucially, the lungs cannot develop (hypoplasia) without fluid inhalation."
+    },
+    {
+        "id": 86,
+        "faculty": "Robert Quigley",
+        "session": "B2: The Golden Window",
+        "question": "The 'Lethal Triad' of trauma, which must be aggressively managed in the Golden Hour, consists of:",
+        "options": [
+            "Acidosis, Hypothermia, and Coagulopathy",
+            "Hypotension, Tachycardia, and Tachypnea",
+            "Hypertension, Bradycardia, and Irregular breathing",
+            "Head injury, Chest injury, and Abdominal injury"
+        ],
+        "correct_answer": "Acidosis, Hypothermia, and Coagulopathy",
+        "explanation": "This vicious cycle kills trauma patients. Acidosis and Hypothermia impair clotting enzymes, leading to Coagulopathy (bleeding), which worsens the acidosis/shock. You must warm the patient and fix the pH to stop the bleeding."
+    },
+    {
+        "id": 87,
+        "faculty": "Robert Quigley",
+        "session": "B2: The Golden Window",
+        "question": "In hemorrhagic shock, the first physiological sign is often not hypotension, but rather:",
+        "options": [
+            "Tachycardia (and narrowing pulse pressure)",
+            "Bradycardia",
+            "Loss of consciousness",
+            "Polyuria"
+        ],
+        "correct_answer": "Tachycardia (and narrowing pulse pressure)",
+        "explanation": "The body compensates for volume loss by clamping down vessels (vasoconstriction) and beating faster (tachycardia). BP is maintained until compensation fails (Class III shock). Pulse pressure narrows early due to rising diastolic pressure."
+    },
+    {
+        "id": 88,
+        "faculty": "John Westhoff",
+        "session": "82: (REQUIRED) ESP: Working with Statisticians",
+        "question": "You are reading a study that uses a 'T-test'. This statistical test is appropriate for comparing:",
+        "options": [
+            "The means of two continuous variables (e.g., Blood Pressure in Drug A vs Placebo)",
+            "Proportions (e.g., % of patients who died)",
+            "Survival curves",
+            "Multiple groups (>2) simultaneously"
+        ],
+        "correct_answer": "The means of two continuous variables (e.g., Blood Pressure in Drug A vs Placebo)",
+        "explanation": "Student's T-test compares the Means of 2 groups. For >2 groups, you use ANOVA. For proportions/categories, you use Chi-Square."
+    },
+    {
+        "id": 89,
+        "faculty": "Farah Madhani-Lovely",
+        "session": "82: Factors That Control CO2 And O2 In Alveoli And Blood",
+        "question": "The peripheral chemoreceptors (Carotid and Aortic bodies) are the primary sensors for:",
+        "options": [
+            "Hypoxemia (Decreased PaO2)",
+            "Hypercapnia (Increased PaCO2)",
+            " pH of the CSF",
+            "Blood pressure changes"
+        ],
+        "correct_answer": "Hypoxemia (Decreased PaO2)",
+        "explanation": "While they respond to CO2/pH, their UNIQUE role is sensing O2. They trigger ventilation only when PaO2 drops significantly (< 60 mmHg). Central chemoreceptors handle the CO2 drive."
+    },
+    {
+        "id": 90,
+        "faculty": "Farah Madhani-Lovely",
+        "session": "82: Factors That Control CO2 And O2 In Alveoli And Blood",
+        "question": "At high altitude, the partial pressure of oxygen is low. The initial physiological response (acclimatization) is:",
+        "options": [
+            "Hyperventilation triggered by peripheral chemoreceptors",
+            "Increased renal excretion of bicarbonate",
+            "Increased hematocrit (polycythemia)",
+            "Pulmonary vasodilation"
+        ],
+        "correct_answer": "Hyperventilation triggered by peripheral chemoreceptors",
+        "explanation": "Hypoxia stimulates the carotid bodies to drive hyperventilation. This improves O2 but blows off CO2, causing Respiratory Alkalosis (which the kidneys later fix by dumping bicarb)."
+    },
+    {
+        "id": 91,
+        "faculty": "Cam Ha Thai Tran",
+        "session": "B2: Overview Of Renal Function And Blood Flow",
+        "question": "Para-aminohippuric acid (PAH) is used to estimate Renal Plasma Flow (RPF) because:",
+        "options": [
+            "It is both filtered and almost completely secreted, so nearly 100% is cleared in one pass",
+            "It is only filtered, like Inulin",
+            "It is reabsorbed by the tubules",
+            "It is metabolized by the kidney"
+        ],
+        "correct_answer": "It is both filtered and almost completely secreted, so nearly 100% is cleared in one pass",
+        "explanation": "PAH clearance estimates RPF because the kidney removes it from the blood via both filtration and active secretion. Virtually all PAH entering the renal artery ends up in the urine."
+    },
+    {
+        "id": 92,
+        "faculty": "Cam Ha Thai Tran",
+        "session": "B2: Renal Handling Of HCO3",
+        "question": "In a state of alkalosis, the Type B Intercalated cells of the collecting duct function to:",
+        "options": [
+            "Secrete Bicarbonate and reabsorb H+",
+            "Secrete H+ and reabsorb Bicarbonate",
+            "Reabsorb Sodium",
+            "Secrete Potassium"
+        ],
+        "correct_answer": "Secrete Bicarbonate and reabsorb H+",
+        "explanation": "Type B cells are the 'Base-Secreting' cells (opposite of Type A). They have the H+-ATPase on the Basolateral side and Pendrin (Cl-/HCO3-) on the Apical side to dump bicarb into the urine."
+    },
+    {
+        "id": 93,
+        "faculty": "Adam Safdi",
+        "session": "B2: The Fundamentals Of Buffers And Blood Gases",
+        "question": "The pKa of a buffer system determines its effective range. The pKa of the Bicarbonate system is 6.1. Why is it still an effective buffer at a blood pH of 7.4?",
+        "options": [
+            "It is an 'Open System' where the lungs can rapidly adjust CO2 concentration",
+            "The concentration of phosphate is higher",
+            "It is not effective; hemoglobin does all the work",
+            "The kidneys excrete acid very fast"
+        ],
+        "correct_answer": "It is an 'Open System' where the lungs can rapidly adjust CO2 concentration",
+        "explanation": "Usually buffers work best near their pKa. Bicarbonate works at 7.4 (far from 6.1) because the body can instantly change the [CO2] via breathing, keeping the ratio of Base/Acid constant."
+    },
+    {
+        "id": 94,
+        "faculty": "Cam Ha Thai Tran",
+        "session": "B2: Concentration & Dilution Of Urine",
+        "question": "Free Water Clearance (CH2O) is positive when:",
+        "options": [
+            "Urine is dilute (hypoosmotic to plasma), indicating water excretion",
+            "Urine is concentrated (hyperosmotic to plasma), indicating water conservation",
+            "Urine is iso-osmotic",
+            "ADH levels are very high"
+        ],
+        "correct_answer": "Urine is dilute (hypoosmotic to plasma), indicating water excretion",
+        "explanation": "Positive Free Water Clearance means the kidneys are clearing 'solute-free water' from the body (making dilute urine). Negative clearance (TcH2O) means the kidneys are conserving water (concentrated urine)."
+    },
+    {
+        "id": 95,
+        "faculty": "Timothy Baker",
+        "session": "B2: Application Of Pulmonary Function Tests",
+        "question": "Which volume cannot be measured by simple Spirometry?",
+        "options": [
+            "Residual Volume (RV)",
+            "Vital Capacity (VC)",
+            "Tidal Volume (TV)",
+            "Inspiratory Reserve Volume (IRV)"
+        ],
+        "correct_answer": "Residual Volume (RV)",
+        "explanation": "Spirometry measures air moving in and out. RV is the air left behind after maximal exhale. You cannot exhale it, so you cannot measure it with a spirometer (need Helium dilution or Plethysmography)."
+    },
+    {
+        "id": 96,
+        "faculty": "Gillian Moritz",
+        "session": "B2: Posterior Approach To Kidneys",
+        "question": "The left renal vein runs between the Aorta and the Superior Mesenteric Artery (SMA). Compression of the vein here ('Nutcracker Syndrome') can lead to:",
+        "options": [
+            "Left flank pain and hematuria, plus left testicular varicocele (in males)",
+            "Right flank pain and ascites",
+            "Renal failure",
+            "Hypertension due to renin release"
+        ],
+        "correct_answer": "Left flank pain and hematuria, plus left testicular varicocele (in males)",
+        "explanation": "The left gonadal vein drains into the left renal vein (unlike the right, which goes to IVC). Backup of pressure in the left renal vein causes backup in the gonadal vein (varicocele)."
+    },
+    {
+        "id": 97,
+        "faculty": "Thomas Gould",
+        "session": "B2: Development Of The Urinary System",
+        "question": "The Urachus is a remnant of the allantois connecting the bladder to the umbilicus. If it remains completely patent, the patient presents with:",
+        "options": [
+            "Urine leaking from the umbilicus",
+            "A cyst below the umbilicus",
+            "Diverticulum of the bladder",
+            "Fecal discharge from the umbilicus"
+        ],
+        "correct_answer": "Urine leaking from the umbilicus",
+        "explanation": "A patent urachus forms a direct fistula between the bladder and the belly button. Urine will drain cutaneously."
+    },
+    {
+        "id": 98,
+        "faculty": "Thomas Gould",
+        "session": "B2: Transport Of Ions And Water Potassium Homeostasis",
+        "question": "Loop Diuretics (Furosemide) inhibit the NKCC2 transporter. A major side effect is hypocalcemia and hypomagnesemia. This occurs because:",
+        "options": [
+            "Inhibition of NKCC2 abolishes the lumen-positive potential that normally drives paracellular Ca2+ and Mg2+ reabsorption",
+            "They directly inhibit calcium channels",
+            "They cause acidosis which binds calcium",
+            "They damage the distal tubule"
+        ],
+        "correct_answer": "Inhibition of NKCC2 abolishes the lumen-positive potential that normally drives paracellular Ca2+ and Mg2+ reabsorption",
+        "explanation": "The Loop depends on the back-leak of K+ to create a + charge in the lumen. This charge repels cations (Ca++, Mg++) into the blood. Blocking NKCC2 stops the K+ recycling, killing the voltage gradient and the reabsorption."
+    },
+    {
+        "id": 99,
+        "faculty": "Tom Hovenic",
+        "session": "B2: (REQUIRED) Case Conference - Naomi Davis",
+        "question": "Rapidly Progressive Glomerulonephritis (RPGN) is characterized histologically by the formation of:",
+        "options": [
+            "Crescents in Bowman's space",
+            "Kimmelstiel-Wilson nodules",
+            "Tram-tracking of the basement membrane",
+            "Spike and dome deposits"
+        ],
+        "correct_answer": "Crescents in Bowman's space",
+        "explanation": "RPGN is a clinical emergency. The glomerular capillaries rupture, leaking fibrin and cells into Bowman's space. This stimulates proliferation of parietal cells, forming 'crescents' that crush the glomerulus."
+    },
+    {
+        "id": 100,
+        "faculty": "Gillian Moritz",
+        "session": "B2: Heart and Mediastinum",
+        "question": "Cardiac Tamponade (fluid compressing the heart) is characterized by Beck's Triad. This consists of:",
+        "options": [
+            "Hypotension, Distended Neck Veins (JVD), and Muffled Heart Sounds",
+            "Hypertension, Bradycardia, and Irregular Breathing",
+            "Fever, Murmur, and Splinter Hemorrhages",
+            "Chest pain, Rub, and fever"
+        ],
+        "correct_answer": "Hypotension, Distended Neck Veins (JVD), and Muffled Heart Sounds",
+        "explanation": "Fluid in the pericardium prevents the heart from filling. Cardiac output drops (Hypotension), blood backs up (JVD), and the fluid insulates the sound (Muffled sounds)."
+    },
+    {
+        "id": 101,
+        "faculty": "John Westhoff",
+        "session": "B2: ESP: Diagnostic Testing Part 1",
+        "question": "Which value describes the proportion of people WITH the disease who test POSITIVE?",
+        "options": [
+            "Sensitivity",
+            "Specificity",
+            "Positive Predictive Value",
+            "Negative Predictive Value"
+        ],
+        "correct_answer": "Sensitivity",
+        "explanation": "Sensitivity = True Positives / (True Positives + False Negatives). It is the 'detection rate' of the test."
+    },
+    {
+        "id": 102,
+        "faculty": "Gillian Moritz; Katelyn Hatfield",
+        "session": "B2: Case-Based Review Of The Heart, Mediastinum, And Anterior Thoracic Wall",
+        "question": "The Left Recurrent Laryngeal Nerve loops around which structure in the thorax, putting it at risk during mediastinal surgeries or tumors?",
+        "options": [
+            "The Aortic Arch (specifically the Ligamentum Arteriosum)",
+            "The Right Subclavian Artery",
+            "The Pulmonary Vein",
+            "The Superior Vena Cava"
+        ],
+        "correct_answer": "The Aortic Arch (specifically the Ligamentum Arteriosum)",
+        "explanation": "The Right Recurrent loops under the Right Subclavian. The Left Recurrent goes deeper, looping under the Aortic Arch near the Ligamentum Arteriosum before ascending to the larynx. Hoarseness can be a sign of aortic aneurysm or lung cancer here."
+    },
+    {
+        "id": 103,
+        "faculty": "John Westhoff",
+        "session": "82: (REQUIRED) ESP: Working with Statisticians",
+        "question": "Selection Bias occurs when:",
+        "options": [
+            "The study population does not accurately represent the target population (e.g., healthy worker effect)",
+            "The researcher knows who is getting the treatment",
+            "The measuring instrument is faulty",
+            "Patients recall exposure differently"
+        ],
+        "correct_answer": "The study population does not accurately represent the target population (e.g., healthy worker effect)",
+        "explanation": "Selection bias distorts the results because the people IN the study are systematically different from those NOT in the study. Randomization is the best way to prevent this in trials."
+    }
+]
