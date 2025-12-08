@@ -1193,29 +1193,29 @@
         "id": 86,
         "faculty": "Robert Quigley",
         "session": "B2: The Golden Window",
-        "question": "The 'Lethal Triad' of trauma, which must be aggressively managed in the Golden Hour, consists of:",
+        "question": "A 43-year-old female presents with acute renal failure (Creatinine 5.0 mg/dL) following a binge drinking episode. She complains of abdominal bloating and a 'sensation of incomplete urination.' Physical exam reveals a distended abdomen. What is the most likely classification of her AKI?",
         "options": [
-            "Acidosis, Hypothermia, and Coagulopathy",
-            "Hypotension, Tachycardia, and Tachypnea",
-            "Hypertension, Bradycardia, and Irregular breathing",
-            "Head injury, Chest injury, and Abdominal injury"
+            "Post-renal (Obstructive)",
+            "Pre-renal (Dehydration)",
+            "Intrinsic (Acute Tubular Necrosis)",
+            "Vascular (Renal Artery Stenosis)"
         ],
-        "correct_answer": "Acidosis, Hypothermia, and Coagulopathy",
-        "explanation": "This vicious cycle kills trauma patients. Acidosis and Hypothermia impair clotting enzymes, leading to Coagulopathy (bleeding), which worsens the acidosis/shock. You must warm the patient and fix the pH to stop the bleeding."
+        "correct_answer": "Post-renal (Obstructive)",
+        "explanation": "The specific symptoms of 'incomplete urination' and a 'distended abdomen' (likely a full bladder) strongly suggest an obstruction to urine flow (Post-renal AKI). This needs to be ruled out immediately (e.g., with a bladder scan or Foley catheter)."
     },
     {
         "id": 87,
         "faculty": "Robert Quigley",
         "session": "B2: The Golden Window",
-        "question": "In hemorrhagic shock, the first physiological sign is often not hypotension, but rather:",
+        "question": "A 54-year-old patient with sepsis and endocarditis develops Acute Kidney Injury. His Urine Sodium is found to be 65 mEq/L. In the context of AKI, a high Urine Sodium (> 40 mEq/L) typically suggests:",
         "options": [
-            "Tachycardia (and narrowing pulse pressure)",
-            "Bradycardia",
-            "Loss of consciousness",
-            "Polyuria"
+            "Acute Tubular Necrosis (Intrinsic damage)",
+            "Pre-renal Azotemia",
+            "Volume Depletion",
+            "Heart Failure"
         ],
-        "correct_answer": "Tachycardia (and narrowing pulse pressure)",
-        "explanation": "The body compensates for volume loss by clamping down vessels (vasoconstriction) and beating faster (tachycardia). BP is maintained until compensation fails (Class III shock). Pulse pressure narrows early due to rising diastolic pressure."
+        "correct_answer": "Acute Tubular Necrosis (Intrinsic damage)",
+        "explanation": "In Intrinsic renal failure (like ATN caused by sepsis), the tubular cells are damaged and lose the ability to reabsorb sodium efficiently. This results in a high amount of sodium being lost in the urine (High Urine Na > 40), distinguishing it from pre-renal states."
     },
     {
         "id": 88,
