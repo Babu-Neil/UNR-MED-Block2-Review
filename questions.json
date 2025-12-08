@@ -1191,29 +1191,29 @@
         "id": 86,
         "faculty": "Robert Quigley",
         "session": "B2: The Golden Window",
-        "question": "In the context of trauma and shock, the 'Golden Window' (or Golden Hour) refers to the critical period where therapeutic intervention is most likely to:",
+        "question": "A 64-year-old male with a history of cirrhosis presents with weakness and decreased urine output. His blood pressure is 90/50 mmHg. Laboratory evaluation reveals a Urine Sodium (UNa) of 10 mEq/L. This finding is most consistent with which etiology of Acute Kidney Injury?",
         "options": [
-            "Prevent irreversible organ damage and death",
-            "Completely reverse all scarring",
-            "Allow for natural healing without surgery",
-            "Prevent any future complications"
+            "Pre-renal Azotemia (Volume Depletion)",
+            "Acute Tubular Necrosis (Intrinsic)",
+            "Acute Interstitial Nephritis",
+            "Post-renal Obstruction"
         ],
-        "correct_answer": "Prevent irreversible organ damage and death",
-        "explanation": "The concept emphasizes that rapid restoration of perfusion (reperfusion) and stabilization within the first hour of shock/trauma significantly improves survival and reduces the risk of irreversible multi-organ failure."
+        "correct_answer": "Pre-renal Azotemia (Volume Depletion)",
+        "explanation": "A low Urine Sodium (< 20 mEq/L) indicates that the renal tubules are intact and are avidly reabsorbing sodium to maintain blood volume. This is the hallmark of Pre-renal AKI (or functional states like Hepatorenal syndrome) where the kidney is under-perfused but structurally normal."
     },
     {
         "id": 87,
         "faculty": "Robert Quigley",
         "session": "B2: The Golden Window",
-        "question": "Ischemia-Reperfusion injury can paradoxically cause tissue damage when blood flow is restored to ischemic tissue. This is primarily mediated by:",
+        "question": "A patient treated with Trimethoprim/Sulfamethoxazole (TMP/SMX) develops an elevated serum creatinine and hyperkalemia. The rise in creatinine in this specific scenario may be misleading because TMP:",
         "options": [
-            "Generation of Reactive Oxygen Species (ROS) and calcium overload",
-            "Lack of oxygen during the reperfusion phase",
-            "Excessive glucose delivery",
-            "Depletion of sodium"
+            "Inhibits the tubular secretion of creatinine without reducing actual GFR",
+            "Causes irreversible glomerular sclerosis",
+            "Causes severe dehydration mimicking pre-renal failure",
+            "Directly damages the proximal tubule cells (ATN)"
         ],
-        "correct_answer": "Generation of Reactive Oxygen Species (ROS) and calcium overload",
-        "explanation": "Reintroducing oxygen to hypoxic tissue generates free radicals (ROS) and causes a massive influx of calcium, leading to mitochondrial damage and cell death (necrosis/apoptosis) beyond the original ischemic injury."
+        "correct_answer": "Inhibits the tubular secretion of creatinine without reducing actual GFR",
+        "explanation": "Trimethoprim inhibits the secretion of creatinine into the tubule. This causes serum creatinine to rise, which can mimic renal failure, even if the Glomerular Filtration Rate (GFR) is unchanged. It also blocks distal sodium channels, leading to hyperkalemia."
     },
     {
         "id": 88,
